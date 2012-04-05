@@ -88,4 +88,5 @@ The only method so far its find, wich takes an array of parameters with two func
     )
 
 "filters" will add the given values to the search request, a detailed list of valid filters can be found [here](http://developers.soundcloud.com/docs/api/tracks)
+
 "fields", if specified, will retrieve only those fields
