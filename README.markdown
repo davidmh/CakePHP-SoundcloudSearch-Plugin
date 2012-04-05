@@ -84,10 +84,10 @@ The previous request will give you the following array:
 
 The only method so far its find, wich takes an array of parameters with two functions
 
-  array(
-    'filters' => array(),  // optional, but doesn't make much sense without it
-    'fields'  => array()   // optional with all the fields as default
-  )
+    array(
+      'filters' => array(),  // optional, but doesn't make much sense without it
+      'fields'  => array()   // optional with all the fields as default
+    )
 
 "filters" will add the given values to the search request, a detailed list of valid filters can be found [here](http://developers.soundcloud.com/docs/api/tracks)
 "fields", if specified, will retrieve only those fields
