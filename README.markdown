@@ -15,16 +15,16 @@ This is a plugin for CakePHP to perform searches in Soundcloud.com.
 
 ### Installation:
 
-  cd my/app/Plugin
-  git clone git://github.com/davidmh/CakePHP-SoundcloudSearch-Plugin.git SoundcloudSearch
+    cd my/app/Plugin
+    git clone git://github.com/davidmh/CakePHP-SoundcloudSearch-Plugin.git SoundcloudSearch
 
 Add your Soundcloud App ID in my/app/Config/core.php
 
-  Configure::write('Soundcloud.AppID', 'YOUR_APP_ID');
+    Configure::write('Soundcloud.AppID', 'YOUR_APP_ID');
 
 In your Controller:
 
-  public $components = array('SoundcloudSearch.SoundcloudSearch');
+    public $components = array('SoundcloudSearch.SoundcloudSearch');
 
 In the Method:
 
