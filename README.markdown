@@ -2,9 +2,9 @@
 
 This is a plugin for CakePHP to perform searches in Soundcloud.com.
 
-@author Chuck (david.mejorado@gmail.com)
+@author @davidmh
 
-@links github.com/davidmh
+@links http://twitter.com/davidmh
 
 @license MIT License (http://www.opensource.org/licenses/mit-license.php)
 
