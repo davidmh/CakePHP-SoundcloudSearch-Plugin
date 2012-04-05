@@ -39,44 +39,44 @@ In the Method:
 
 The previous request will give you the following array:
 
-  Array
-  (
-    [0] => Array
-        (
-            [id] => 14399564
-            [duration] => 534459
-            [title] => POMEROY - Polyhedron
-            [user] => Array
-                (
-                    [id] => 4438313
-                    [permalink] => jardindelacroix
-                    [username] => jardindelacroix
-                    [uri] => http://api.soundcloud.com/users/4438313
-                    [permalink_url] => http://soundcloud.com/jardindelacroix
-                    [avatar_url] => http://i1.sndcdn.com/avatars-000008349008-24wlxq-large.jpg?b9f92e9
-                )
+    Array
+    (
+      [0] => Array
+          (
+              [id] => 14399564
+              [duration] => 534459
+              [title] => POMEROY - Polyhedron
+              [user] => Array
+                  (
+                      [id] => 4438313
+                      [permalink] => jardindelacroix
+                      [username] => jardindelacroix
+                      [uri] => http://api.soundcloud.com/users/4438313
+                      [permalink_url] => http://soundcloud.com/jardindelacroix
+                      [avatar_url] => http://i1.sndcdn.com/avatars-000008349008-24wlxq-large.jpg?b9f92e9
+                  )
 
-            [stream_url] => http://api.soundcloud.com/tracks/14399564/stream
-        )
+              [stream_url] => http://api.soundcloud.com/tracks/14399564/stream
+          )
 
-    [1] => Array
-        (
-            [id] => 14400037
-            [duration] => 566027
-            [title] => POMEROY - Boston Steamer
-            [user] => Array
-                (
-                    [id] => 4438313
-                    [permalink] => jardindelacroix
-                    [username] => jardindelacroix
-                    [uri] => http://api.soundcloud.com/users/4438313
-                    [permalink_url] => http://soundcloud.com/jardindelacroix
-                    [avatar_url] => http://i1.sndcdn.com/avatars-000008349008-24wlxq-large.jpg?b9f92e9
-                )
+      [1] => Array
+          (
+              [id] => 14400037
+              [duration] => 566027
+              [title] => POMEROY - Boston Steamer
+              [user] => Array
+                  (
+                      [id] => 4438313
+                      [permalink] => jardindelacroix
+                      [username] => jardindelacroix
+                      [uri] => http://api.soundcloud.com/users/4438313
+                      [permalink_url] => http://soundcloud.com/jardindelacroix
+                      [avatar_url] => http://i1.sndcdn.com/avatars-000008349008-24wlxq-large.jpg?b9f92e9
+                  )
 
-            [stream_url] => http://api.soundcloud.com/tracks/14400037/stream
-        )
-  ...
+              [stream_url] => http://api.soundcloud.com/tracks/14400037/stream
+          )
+    ...
 
 
 
